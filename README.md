@@ -1,5 +1,7 @@
 # Strings Real World Challenge: Biology
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/genetics-and-strings-lab-python)](https://repl.it/github/upperlinecode/genetics-and-strings-lab-python)
+
 DNA is the code in which all life is written. Inside of each of our cells is a blueprint for who we are (of course, who we are also depends on our environment). Using computers to 'crack the genetic code' is one of the biggest challenges of our time, and an important field of research known as bioinformatics.
 
 While there's a lot to learn about DNA, the quick and dirty explanation is this: Inside each cell's nucleus is DNA, which consists of two strands of chemical bases that match each other in a very particular way.
