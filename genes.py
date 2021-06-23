@@ -1,4 +1,34 @@
 strand = "AATCGCCCAAGACAACATGGGGTTGCAGGTGTAAATCGATAAAAGAAGGGGTAGGTATCGTTCACGGGGCACACTACTAGCGGGGCTTAGATAGCAAACTAGGGGTTCTTCACGCAGCGCAAGACACATGCGCTATAAATGCTAGATCAACTGACATTATACTTATCAATGGGGAATAGGTCAGATAGATGGCACCACCATCGCACACTTATAGGCACGTCACCTGAGCCGACTCGAAATCCGCTTAGTACTGCGACAAAATCATCCGCTCGGTTGATCTAGGATCGGGACTATATCGCAGCGCCCTAGCTCATTCTCACACGTGGAGGGAGCGACGAATGCTCAGCGAGGAGTTGTTCTGACCCGTGACGGAGTACTCTTTACTATCAAGTATAGGCCAGTCTTGCCCCGATCGCTATACATTATTTGATGCCCCCATAGCCGCAGTCATTCGACAGATTAGGCCCACCACCACCTCCCCTTGAGATTGGCTGCATCTACTGTTCAGTCTAATCGCAACTAGCAACATTACGGAAGAAGGGCTACTCTAGATTGTCGCGTACAAGGTTTACCAAAGTGCATAAATCGACGGCCCCTCACGTGCGGCCGTTGGCAAGAGCAACTAAACGCCGGAAGACCCACGCCAATACAGTTCCGCGCCACGGAGGTAACTTACATGCGCGCTCCCCGGTTTACGGGTCATGCCTACCCCTCGGCATTCATGGGACTCAAACCTATCCCCGCAGCCGGAGCTTAAGAAAGAGCTAACACTTAGTTCGCATTCAAAATCGGTAAATTAATTAACATGCCGCAACGCGTCTAGACTACTCCCCGCTTTGCGTTCACCAACGTCCCGAGTTTTAACCTAGAAGCATATGTGCTGACCGTTAGCATACGGTGTTCATCACTCTCGCGATCTCGTCAACTTGGCCATCGCCATCTGGTGGACCCCGGAATCAAAGCTGCTGACTAGAGGCGTTG"
 
-# Read the challenges listed on the GitHub page where you cloned this lab, https://github.com/upperlinecode/genetics-and-strings-lab-python
-# The challenges will tell you what to do, and in what order.
+# The variable strand holds a string with the characters A, T, C, and G in it to represent a strand of DNA.
+# Use what you've learned about Python String Methods to answer the following questions.
+
+# 1. How long is the string?
+
+
+# 2. How many How many adenine symbols ('A')?
+
+
+# 3. How many guanine symbols ('G')?
+
+
+# 4. How many cytosine symbols ('C')?
+
+
+# 5. How many thiamine symbols ('T')?
+
+
+# 6. How many times does the snippet GAT appear in the string?
+
+
+# 7. An RNA string is a string formed from the alphabet containing 'A', 'C', 'G', and 'U'. Return a string with all 'T's replaced with 'U's (U stands for Uracil)
+
+
+# 8. The 'complement' of a strand of DNA is what the opposing strand looks like. (Replace A with T, T with A, G with C, and C with G). For example: the complement of ATCGA is TAGCT. Find the complement to the sequence provided
+
+
+# 9. The 'reverse complement' of DNA is the complement (see above) of a strand that is also reversed. Example: ATCGGG has a reverse complement of CCCGAT. Find the reverse complement of the string!
+
+
+# 10. [CHALLENGE] Look in the file README.MD to see the challenge question.
+
